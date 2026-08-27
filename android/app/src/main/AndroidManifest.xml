@@ -33,8 +33,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        
-        <!-- هذا السطر هو الذي يلغي نظام v1 ويجبر التطبيق على العمل بنظام v2 الحديث -->
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
